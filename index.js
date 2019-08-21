@@ -1,4 +1,4 @@
-var a=3,b=5;
+//var a=3,b=5;
 
 function add(a,b) {
   return a+b;
